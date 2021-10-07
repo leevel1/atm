@@ -3,8 +3,19 @@ A simple ATM Java application that allows user to login using any account number
 Upon successful login, the customer will have options for balance check, deposit and withdrawal.
 
 # How to open?
-Download zip, extract and run the java application from command line with the following:
+
+_Download zip_
+
+Extract and run the java application from command line
 
 Compile using javac src/bank*.java OR javac src\bank*.java (for Windows)
 
 Execute using java -cp ./src bank.Main OR java -cp src bank.Main (for Windows)
+
+(OR)
+
+_Clone the repository_
+
+git clone https://github.com/leevel1/atm.git
+
+open in any IDE to run Main.java
